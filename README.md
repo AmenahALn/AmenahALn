@@ -10,8 +10,3 @@ Data analysis / Risk management / Data visualization / Statistical skills/Proble
 [![My Skills](https://skillicons.dev/icons?i=matlab,py,r,latex&theme=light)](https://skillicons.dev) 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AmenahALn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/amenah-alnajafi/?originalSubdomain=hu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40'>](https://www.researchgate.net/profile/Amenah-Al-Najafi/research) 
-
-## Project 1
-Short description or summary of Project 1. [Read more](path/to/project1-details.md)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmenahALn&theme=radical&show_icons=true)
