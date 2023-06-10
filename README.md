@@ -1,8 +1,6 @@
 ![Data Scientist |Statistical Analyst | Risk Analysis Specialist](https://github.com/AmenahALn/AmenahALn/blob/main/Risk%20analysisData%20scientist.png)
 
-<div style="display:none;">
-Hi there 👋, my name is Amenah
-</div>
+Hi there 👋
 
 ### Data Scientist |Statistical Analyst | Risk Analysis Specialist
 - 🔭 I’m currently working on Exploring advanced techniques in risk analysis and data science 
